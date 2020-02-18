@@ -1,0 +1,38 @@
+/*
+ * 
+ * #B1C1C0= ash grey
+ * #FE5F55= orange 
+ * #A1CDF4=baby blue eyes 
+ * #EEF5DB= beige 
+ * #EFD9CE= almond
+ *    */
+ 
+
+
+.grid-container {
+  display: grid;
+}
+h1,h2,h3,h4{
+    font-family: 'Abel', sans-serif;
+}
+p{
+  font-family: 'Assistant', sans-serif;
+}
+#landing{
+   background-image: url ("https://www.rollingstone.com/wp-content/uploads/2019/09/PostMalone.jpg?resize=900,600&w=1200");
+     background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: cover;
+}
+
+#landing h1{
+  font-size: 4.5em;
+  color:#EFD9CE;
+  text-shadow:2px 5px #A1CDF4;
+}
+
+#landing h3 {
+  font-size: 3em;
+  color:#A1CDF4;
+}
+

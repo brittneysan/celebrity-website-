@@ -1,0 +1,17 @@
+{
+ "name": "celebrity website ",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "576e1dd9-0705-423a-0c70-dfa5ab99ad91",
+   "pageId": "576e1dd9-0705-423a-0c70-dfa5ab99ad91",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "5929a811-f576-23d4-7f98-12f519a58cd6",
+   "pageId": "5929a811-f576-23d4-7f98-12f519a58cd6",
+   "type": "page"
+  }
+ ]
+}
